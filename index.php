@@ -22,11 +22,11 @@
                 </li>
 
                 <li class="menu-item menu-item--show">
-                    <a class="menu-link" href="systems.html"><span>Sistemas</span></a>
+                    <a class="menu-link" href="systems.php"><span>Sistemas</span></a>
                 </li>
 
                 <li class="menu-item menu-item--show">
-                    <a class="menu-link" href="equipment.html"><span>Equipos</span></a>
+                    <a class="menu-link" href="equipment.php"><span>Equipos</span></a>
                 </li>
 
                 <li class="menu-item">
